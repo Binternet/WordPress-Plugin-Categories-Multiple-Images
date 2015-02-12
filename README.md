@@ -19,7 +19,7 @@ This plugin is an extended version of [Categories Images](https://wordpress.org/
 The Categories Multiple Images Plugin allow you to add unlimited amount of image to a category or any other taxonomy.
 
 You can use: 
-`<?php Categories_Multiple_Images::get_image( term_id, image_number, image_size, use_placeholder ); ?> `
+`<?php Categories_Multiple_Images::get_image( term_id, image_number, image_size, use_placeholder );?> `
 
 to get the direct image url and put it in any <img> tag in your template.
 

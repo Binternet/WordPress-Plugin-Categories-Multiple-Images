@@ -317,6 +317,10 @@ HTML;
      */
     static function get_image( $term_id = NULL, $image_number = NULL, $size = 'full', $return_placeholder = FALSE ) {
         
+        if ( ! is_numeric( $term_id ) ) {
+            return FALSE;
+        }
+        
     	if ( empty( $term_id ) ) {
     	   
             if ( is_category() ) {

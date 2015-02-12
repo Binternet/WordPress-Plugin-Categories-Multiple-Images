@@ -14,7 +14,7 @@ The Categories Multiple Images Plugin allow you to add image unlimited images to
 
 == Description ==
 
-This plugin is an extended version of [Categories Images](https://wordpress.org/plugins/categories-images/).
+This plugin is an extended version of [Categories Images](https://wordpress.org/plugins/categories-images/) by [Muhammad](https://profiles.wordpress.org/elzahlan/)
 
 The Categories Multiple Images Plugin allow you to add unlimited amount of image to a category or any other taxonomy.
 

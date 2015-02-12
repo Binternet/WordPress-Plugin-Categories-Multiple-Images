@@ -25,9 +25,6 @@ to get the direct image url and put it in any <img> tag in your template.
 
 Also from settings menu you can exclude any taxonomies from the plugin to avoid conflicting with another plugins like WooCommerce!
 
-More documentation
-Go to http://zahlan.net/blog/2012/06/categories-images/
-
 == Installation ==
 
 e.g.

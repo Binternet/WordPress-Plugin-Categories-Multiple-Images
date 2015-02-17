@@ -280,7 +280,9 @@ HTML;
      */
     function edit_texonomy_field( $taxonomy ) {
         
-        # Excluded?
+        # Call all the required assets for media upload
+        wp_enqueue_media();
+        
         $this->include_assets('edit');
         
         $html = '';

@@ -201,7 +201,7 @@ class Categories_Multiple_Images {
     		</form>
     	</div>
         
-        <?
+        <?php
     }
     
     /**
